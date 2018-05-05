@@ -1,0 +1,4 @@
+applications:
+- name: anji-demo2
+  path: build/libs/demo-0.0.1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
